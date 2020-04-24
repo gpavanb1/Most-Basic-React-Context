@@ -1,4 +1,4 @@
-# Most-Basic-React-Redux
+# Most-Basic-React-Context
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -23,7 +23,7 @@ The page will reload if you make edits.<br />
 
 ## Contents
 
-Relevant code is present in [App.js](./src/App.js). The code is divided into 3 sections and illustrates the core patterns of React+Redux.
+Relevant code is present in [App.js](./src/App.js). The code is divided into 3 sections and illustrates the core patterns of React's Context API.
 
 * Context: The score along with increment and decrement functions are going to be stored in __ScoreContext__ in [context.js](./src/context.js)
 * Two main components
